@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 405d562c0857af040b125772d542d0e1
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 1
+    maxBonesPerVertex: 1
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: BossGolemV1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sphere
+      parentName: BossGolemV1(Clone)
+      position: {x: -0.09016603, y: 5.09205, z: -0.003581982}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 136.05548, y: 136.05548, z: 136.05548}
+    - name: Sphere.008
+      parentName: BossGolemV1(Clone)
+      position: {x: -3.0188577, y: 5.0873284, z: -0.08099307}
+      rotation: {x: -0.3050678, y: 0.36351505, z: 0.5434507, w: 0.69242465}
+      scale: {x: 59.591866, y: 91.951485, z: 59.59187}
+    - name: Sphere.009
+      parentName: BossGolemV1(Clone)
+      position: {x: -4.424152, y: 5.0501738, z: -0.20693319}
+      rotation: {x: -0.561843, y: 0.4293396, z: -0.4293396, w: 0.561843}
+      scale: {x: 24.49034, y: 24.49034, z: 24.49034}
+    - name: Circle.030
+      parentName: BossGolemV1(Clone)
+      position: {x: -0.81417036, y: 3.8114114, z: -0.045202997}
+      rotation: {x: 0.7683288, y: 0.40445375, z: -0.49603516, w: 0.0061057904}
+      scale: {x: 17.972492, y: 17.972494, z: 17.972492}
+    - name: Sphere.004
+      parentName: BossGolemV1(Clone)
+      position: {x: 2.8284597, y: 4.8112855, z: 0.09022408}
+      rotation: {x: 0.67554307, y: 0.6197163, z: 0.27391323, w: -0.29080036}
+      scale: {x: 59.591866, y: 91.951485, z: 59.591866}
+    - name: Sphere.001
+      parentName: BossGolemV1(Clone)
+      position: {x: 1.0736752, y: 1.8032718, z: 0.18366691}
+      rotation: {x: -0.46145958, y: 0.02155013, z: 0.8833681, w: -0.07906622}
+      scale: {x: 59.59187, y: 91.951485, z: 59.591866}
+    - name: Sphere.005
+      parentName: BossGolemV1(Clone)
+      position: {x: -1.0146453, y: 1.7620687, z: 0.29722083}
+      rotation: {x: -0.6769814, y: 0.12491475, z: 0.71285594, w: 0.13389894}
+      scale: {x: 59.591866, y: 91.951485, z: 59.59187}
+    - name: Sphere.002
+      parentName: BossGolemV1(Clone)
+      position: {x: 4.3545685, y: 4.739956, z: 0.15103385}
+      rotation: {x: 0.010394031, y: -0.7160146, z: -0.006628541, w: 0.6979765}
+      scale: {x: 24.49034, y: 24.490341, z: 24.49034}
+    - name: Sphere.003
+      parentName: BossGolemV1(Clone)
+      position: {x: 1.2779282, y: 0.2908747, z: 0.29996407}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 24.49034, y: 24.49034, z: 24.49034}
+    - name: Sphere.006
+      parentName: BossGolemV1(Clone)
+      position: {x: -1.2493186, y: 0.32717228, z: 0.21646762}
+      rotation: {x: 0.74099714, y: 0.44446415, z: 0.34741306, w: -0.36425132}
+      scale: {x: 24.49034, y: 24.49034, z: 24.49034}
+    - name: Circle.037
+      parentName: BossGolemV1(Clone)
+      position: {x: -2.6551306, y: 4.9099965, z: -0.2671819}
+      rotation: {x: 0.5493946, y: 0.63983995, z: 0.036521208, w: 0.5361313}
+      scale: {x: 9.929334, y: 9.11188, z: 28.435951}
+    - name: Circle.045
+      parentName: BossGolemV1(Clone)
+      position: {x: 2.4790568, y: 4.707491, z: -0.18353418}
+      rotation: {x: 0.89467925, y: -0.22707003, z: 0.18543288, w: -0.3370504}
+      scale: {x: 9.929334, y: 9.111881, z: 28.435951}
+    - name: Circle.052
+      parentName: BossGolemV1(Clone)
+      position: {x: 0.80493355, y: 2.4508567, z: 0.017070979}
+      rotation: {x: 0.72537756, y: 0.57136345, z: 0.36635974, w: -0.11468128}
+      scale: {x: 1.8242184, y: 1.484737, z: 5.681898}
+    - name: Circle.061
+      parentName: BossGolemV1(Clone)
+      position: {x: -1.3222991, y: 1.340779, z: -0.029110119}
+      rotation: {x: 0.32036296, y: 0.82021135, z: -0.33030105, w: -0.33988547}
+      scale: {x: 1.8242184, y: 1.484737, z: 5.681898}
+    - name: Circle.075
+      parentName: BossGolemV1(Clone)
+      position: {x: 4.653961, y: 4.725115, z: 0.16938645}
+      rotation: {x: 0.91200495, y: 0.087357916, z: 0.38849732, w: -0.09841485}
+      scale: {x: 2.527885, y: 2.0574532, z: 7.87361}
+    - name: Circle.083
+      parentName: BossGolemV1(Clone)
+      position: {x: -1.3330072, y: 0.3739631, z: 0.11123374}
+      rotation: {x: 0.28677237, y: 0.86100465, z: -0.092547216, w: -0.40971652}
+      scale: {x: 1.8242184, y: 1.484737, z: 5.681898}
+    - name: Circle.084
+      parentName: BossGolemV1(Clone)
+      position: {x: 1.3332444, y: 0.47526264, z: 0.15950333}
+      rotation: {x: 0.34327012, y: 0.6757556, z: 0.5190426, w: -0.3951136}
+      scale: {x: 1.8242184, y: 1.484737, z: 5.681898}
+    - name: Circle.091
+      parentName: BossGolemV1(Clone)
+      position: {x: -4.2377615, y: 4.986403, z: -0.24375644}
+      rotation: {x: -0.6316233, y: 0.7520347, z: -0.18587525, w: -0.030759823}
+      scale: {x: 2.527885, y: 2.0574532, z: 7.87361}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

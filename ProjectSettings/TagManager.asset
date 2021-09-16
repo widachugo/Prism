@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ObjectAffectLight
+  - Ground
+  - Fire
+  - Activator_Testing
+  - Waypoint_Enemy
+  - Enemy
+  - AberrationTop
+  - Door
+  - Bridge
+  - PlayerBody
+  - Ascenseur
+  - BossDoor
+  - Puzzle3Door1
+  - Puzzle3Door2
+  - BossPorte02
+  - BossPorte01
+  - BossLR01
+  - BossLR02
+  - BossLR03
+  - Yes
+  - LightGenerator
+  - Lightray
+  - Balle
+  - BossLR04
+  - Door2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcess
+  - ObjectActingOnLight
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
